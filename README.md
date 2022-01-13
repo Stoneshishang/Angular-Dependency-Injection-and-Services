@@ -1,5 +1,7 @@
 # MyFirstApp
 
+This project is from Max's Angular Course [Using Services and Dependency Injection module](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6656206#notes)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
